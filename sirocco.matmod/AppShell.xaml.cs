@@ -1,9 +1,10 @@
-﻿namespace sirocco.matmod;
-
-public partial class AppShell : Shell
+﻿namespace sirocco.matmod
 {
-	public AppShell()
-	{
-		InitializeComponent();
-	}
+    public partial class AppShell : Shell
+    {
+        public AppShell()
+        {
+            InitializeComponent(); 
+        }
+    }
 }
